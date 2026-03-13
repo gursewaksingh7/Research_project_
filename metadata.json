@@ -1,0 +1,7 @@
+{
+  "name": "ClassSync Translator",
+  "description": "Real-time bidirectional classroom translation tool for teachers and students.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
